@@ -1,6 +1,6 @@
 # Former Coding Interview Question: Find longest word in dictionary that is a subsequence of a given string
 
-https://techdevguide.withgoogle.com/paths/foundational/find-longest-word-in-dictionary-that-subsequence-of-given-string/#!
+https://techdevguide.withgoogle.com/paths/foundational/find-longest-word-in-dictionary-that-subsequence-of-given-string/#
 
 ## The Challenge
 
